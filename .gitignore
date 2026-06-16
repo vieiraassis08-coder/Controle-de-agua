@@ -1,0 +1,14 @@
+.env
+.env.*
+/vendor/
+/.venv/
+/storage/*.key
+/storage/framework/*
+/storage/logs/*
+/bootstrap/cache/*
+composer.phar
+composer-setup.php
+*.log
+.phpunit.result.cache
+node_modules/
+coverage/
